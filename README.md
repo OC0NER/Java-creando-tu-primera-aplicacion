@@ -9,4 +9,4 @@ Primer curso de la formación Java Orientado a Objetos, del grupo G6 del curso O
 - Controlar el flujo de una aplicación con el uso de condicionales y bucles
   
 ### Proyecto final del curso 
-El objetico del proyecto final del curso es aplicar tus conocimientos desarrollando una aplicación de un sistema bancario, utilizando conceptos de variables, condicionales, bucles y lectura de datos en java junto con lógica de programación.
+El objetivo del proyecto final del curso es aplicar tus conocimientos desarrollando una aplicación de un sistema bancario, utilizando conceptos de variables, condicionales, bucles y lectura de datos en java junto con lógica de programación.
